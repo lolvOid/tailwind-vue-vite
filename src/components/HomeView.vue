@@ -27,7 +27,7 @@ export default {
       <div class="text-white text-xl font-bold  ">
         Vite + Vue + Tailwind + Vuex + VueRouter
       </div>
-      <a href="#" target="_blank" class="text-7xl text-white hover:text-cyan-400">
+      <a href="https://github.com/lolvOid/vite-vue-tailwind-vuex-template" target="_blank" class="text-7xl text-white hover:text-cyan-400">
         <fa-icon icon="fa-brands fa-github"></fa-icon>
         
       </a>
